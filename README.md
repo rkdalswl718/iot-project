@@ -26,9 +26,9 @@
 5. 모두 완료한 후 Pull Request를 보내주세요.
 
 > **포크, 브랜치, Pull Request가 뭔지 모르겠다면?** <br>  
->  다음 글을 참고하면서 진행해주세요!<br>  
->  꼭 이 글이 아니더라도, 다른 글들을 참고하면서 해도 괜찮습니다.<br>  
->  [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
+> 다음 글을 참고하면서 진행해주세요!<br>  
+> 꼭 이 글이 아니더라도, 다른 글들을 참고하면서 해도 괜찮습니다.<br>  
+> [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
 
 <br>
 
@@ -40,6 +40,8 @@
 | 기능 + 추가적인 기능 | 과제의 기능을 정확하게 구현했는가?                      | 40%  |
 | 코드 품질            | 코드의 가독성, 유지보수 용이성, 재사용 가능성이 좋은가? | 40%  |
 | 버전 관리            | 깃과 깃허브를 활용하여 버전 관리를 하면서 구현했는가?   | 15%  |
+
+<br>
 
 ## 3️⃣ 커밋 메시지 규칙
 
