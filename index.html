@@ -4,21 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./style.css">
     <title>단어 게임</title>
 </head>
 <body>
     <h1>단어 게임</h1>
-
-    <!-- 점수판 -->
-
-    <!-- 무작위 단어 -->
-
-    <!-- 입력 필드 -->
+    <div class="header">
+        <!-- 점수판 -->
+        <span>점수 : <span id="score">0</span></span>점
+    
+        <!-- 무작위 단어 -->
+        <span>단어 : <span id="word"></span></span>
+    </div>
+    <form><!-- 입력 필드 -->
+    <input type="text" id="input">
     <!-- 입력 버튼 -->
+    <button onclick="wordInput()"> 입력 </button>
 
     <!-- 게임 시작하기, 끝내기 버튼 -->
+    <button onclick="gameStart()">게임 시작</button>
+    <button onclick="finish()">끝내기</button>
+    </form>
+    
 
-    <script src="src/app.js"></script>
+    <script src="src/app.js">
+
+    </script>
 </body>
 </html>
