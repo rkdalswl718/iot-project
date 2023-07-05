@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 130px;
+    height: 70px;
+    margin-left: 10px;
+}
+
+.menu {
+    display: flex;
+    box-shadow: 0px 0px 4px 0.1px;
+    border-radius:0px 0px 30px 30px;
+}
+
+ul {
+    display: flex;
+    margin-top: 26px;
+}
+
+li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.login {
+    margin-left: 60rem;
+}
+
+.box {
+    margin-top: 25px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.fall{
+    width: 15.8125rem;
+    height: 15.5rem;
+    background-color: brown;
+    margin-left: 30px;
+    border-radius: 50px;
+}
+
+.fall1 {
+    margin-top: 10px;
+    margin-left: 73px;
+}
+
+.fallPlus {
+    margin-top: 140px;
+    margin-left: 28px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border-style:none;
+}
+
+.member {
+    width: 15.8125rem;
+    height: 15.5rem;
+    background-color: brown;
+    margin-left: 60px;
+    border-radius: 50px;
+}
+
+.member1 {
+    margin-top: 10px;
+    margin-left: 73px;
+}
+
+.memberPlus {
+    margin-top: 140px;
+    margin-left: 28px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border-style:none;
+}
+
+.guardian {
+    width: 15.8125rem;
+    height: 15.5rem;
+    background-color: brown;
+    margin-left: 90px;
+    border-radius: 50px;
+}
+
+.guardian1 {
+    margin-top: 10px;
+    margin-left: 64px;
+}
+
+.guardianPlus {
+    margin-top: 140px;
+    margin-left: 28px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border-style:none;
+}
+
+.hospital {
+    width: 15.8125rem;
+    height: 15.5rem;
+    background-color: brown;
+    margin-left: 120px;
+    border-radius: 50px;
+}
+
+.hospital1 {
+    margin-top: 10px;
+    margin-left: 73px;
+}
+
+.hospitalPlus {
+    margin-top: 140px;
+    margin-left: 28px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border-style:none;
+}
