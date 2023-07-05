@@ -4,18 +4,19 @@
 }
 
 .logo {
-    width: 120px;
-    height: 65px;
+    width: 140px;
+    height: 40px;
     margin-left: 25px;
     margin-top: 5px;
 }
 
 .menu {
-    width:100%;
+    width:99.3%;
     height:4.5rem;
     display: flex;
-    box-shadow: 0px 0px 4px 0.1px;
-    border-radius:0px 0px 30px 30px;
+    box-shadow: 0px 0px 4px 0px #4f4f4f;
+    border-radius:0px 0px 40px 30px;
+    margin-left: 5.5px;
 }
 
 ul {
@@ -34,7 +35,7 @@ a {
 }
 
 .login {
-    margin-left: 60rem;
+    margin-left: 70rem;
 }
 
 .box {
@@ -48,17 +49,22 @@ a {
     width: 15.8125rem;
     height: 15.5rem;
     background-color: #E21F3D;
-    margin-left: 30px;
+    margin-left: 50px;
     border-radius: 50px;
+    flex-direction: column;
 }
 
 .fall1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
     margin-top: 15px;
-    margin-left: 73px;
 }
 
 .fallPlus {
-    margin-top: 140px;
+    margin-top: 75px;
     margin-left: 28px;
     width: 200px;
     height: 40px;
@@ -70,17 +76,36 @@ a {
     width: 15.8125rem;
     height: 15.5rem;
     background-color: #E21F3D;
-    margin-left: 60px;
+    margin-left: 70px;
     border-radius: 50px;
 }
 
+.nember {
+    display: flex;
+    
+    text-align: center;
+}
+
+span {
+    font-size: 35px;
+}
+
 .member1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
     margin-top: 15px;
-    margin-left: 73px;
+}
+
+.memberIcon {
+    margin-left: 55px;
+    width: 140px;
+    height: 140px;
 }
 
 .memberPlus {
-    margin-top: 140px;
     margin-left: 28px;
     width: 200px;
     height: 40px;
@@ -92,17 +117,26 @@ a {
     width: 15.8125rem;
     height: 15.5rem;
     background-color: #E21F3D;
-    margin-left: 90px;
+    margin-left: 70px;
     border-radius: 50px;
 }
 
 .guardian1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
     margin-top: 15px;
-    margin-left: 64px;
+}
+
+.guardianIcon {
+    margin-left: 55px;
+    width: 140px;
+    height: 140px;
 }
 
 .guardianPlus {
-    margin-top: 140px;
     margin-left: 28px;
     width: 200px;
     height: 40px;
@@ -114,17 +148,26 @@ a {
     width: 15.8125rem;
     height: 15.5rem;
     background-color: #E21F3D;
-    margin-left: 120px;
+    margin-left: 70px;
     border-radius: 50px;
 }
 
 .hospital1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
     margin-top: 15px;
-    margin-left: 73px;
+}
+
+.hospitalIcon {
+    margin-left: 55px;
+    width: 140px;
+    height: 140px;
 }
 
 .hospitalPlus {
-    margin-top: 140px;
     margin-left: 28px;
     width: 200px;
     height: 40px;
